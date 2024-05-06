@@ -1,0 +1,8 @@
+version: v1
+name: buf.build/connectrpc/otp
+lint:
+  use:
+    - DEFAULT
+breaking:
+  use:
+    - FILE
